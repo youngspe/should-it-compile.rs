@@ -1,0 +1,10 @@
+[package]
+name = "should-it-compile"
+description = "Verifies that a code sample compiles or does not compile."
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+authors = ["Spencer Young"]
+repository = "https://github.com/youngspe/should-it-compile.rs"
+keywords = ["test", "compile_fail", "macro"]
+categories = ["development-tools::testing"]
