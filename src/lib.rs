@@ -2,6 +2,7 @@
 //! [`should_not_compile!`]:    should_not_compile
 //!
 #![doc = include_str!("../README.md")]
+#![no_std]
 
 /// Contains functions that are expected to compile.
 ///
